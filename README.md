@@ -39,6 +39,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- [diigo](https://diigo.com)
 	- [Readwise](https://readwise.io/)
 	- [Raindrop.io](https://raindrop.io/)
+	- [Orano - turns saved Reels, videos and links into projects, action plans and learning roadmaps](https://oranoai.com/)
 - Frameworks
 	- [LYT Kit - LYT Kit (linkingyourthinking.com)](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
 	- [Building a Second Brain: The Illustrated Notes (maggieappleton.com)](https://maggieappleton.com/basb)
